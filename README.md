@@ -87,10 +87,7 @@ Music-Recommendation-System/
 │
 ├── dataset/
 │ └── spotify_tracks.csv
-│
-├── notebook/
-│ └── Music_Recommendation_System.ipynb
-│
+├── Music_Recommendation_System.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
